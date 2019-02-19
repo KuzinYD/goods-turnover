@@ -7,4 +7,4 @@ Robot fetches the data from Input.xlsm column "A", column "B", "C" . After it fo
 file are in the header of a reporting file and store codes in the first column.
 Robot represents preliminary data and tranforms it in percents as well as coloring cells in red where good's turnover is less than 97%.
 
-Yan Kuzin,2019
+
