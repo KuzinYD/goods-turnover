@@ -1,0 +1,27 @@
+{
+  "name": "Dixy",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.UIAutomation.Activities": "[18.3.6877.28298]",
+    "UiPath.System.Activities": "[18.3.6864.20561]",
+    "UiPath.Excel.Activities": "[2.4.6856.17931]",
+    "UiPath.Mail.Activities": "[1.2.6862.29899]",
+    "UiPath.Python.Activities": "[1.1.6863.33404]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.4.2.17",
+  "projectVersion": "1.0.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}
